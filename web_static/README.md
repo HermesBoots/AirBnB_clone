@@ -11,3 +11,6 @@ Using the `link` element and CSS files separate from the HTML file.
 
 ## Zoning Done!
 Styling the page to look more on-brand.
+
+## More Filters
+Adding fake content to the filters box.
