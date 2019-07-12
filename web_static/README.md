@@ -17,3 +17,6 @@ Adding fake content to the filters box.
 
 ## It's (H)over
 Making detailed lists appear only when hovered over.
+
+## Display Results
+Add articles containing the places for rent.
