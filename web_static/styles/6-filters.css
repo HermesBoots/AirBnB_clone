@@ -1,18 +1,18 @@
 .filters {
+	align-items: stretch;
 	background-color: white;
 	border: 1px solid #DDDDDD;
 	border-radius: 4px;
+	display: flex;
 	height: 70px;
 	width: 100%;
 }
 
 .filters>div {
-	display: inline-block;
-	height: 100%;
 	position: relative;
 	width: 25%;
 }
-.filters>div:not(:last-of-type) { border-right: 1px solid #DDDDDD; }
+.filters>div:not(:last-of-type) { border-right: 1px solid #DDDDDD }
 
 .filters>div h3 {
 	font-weight: 600;
@@ -35,7 +35,8 @@
 	float: right;
 	font-size: 18px;
 	height: 48px;
-	margin: 11px 30px 0 0;
+	margin: 11px 30px 0 auto;
+	order: 1;
 	width: 20%;
 }
 .filters>button:hover { opacity: 0.9; }
