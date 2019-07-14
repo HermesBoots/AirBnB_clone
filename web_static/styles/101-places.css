@@ -49,7 +49,7 @@
 .number_bathrooms { background-image: url('../images/icon_bath.png'); }
 
 .places.amenities { margin-top: 40px; }
-.places.amenities ul {
+.places .amenities ul {
 	list-style-type: none;
 	padding: 0;
 }
