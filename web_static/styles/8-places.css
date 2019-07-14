@@ -1,4 +1,7 @@
-.container>h1 { font-size: 30px }
+.places>h1 {
+	font-size: 30px;
+	width: 100%;
+}
 .places {
 	align-items: stretch;
 	flex-wrap: wrap;
