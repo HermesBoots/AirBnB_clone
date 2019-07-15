@@ -1,12 +1,12 @@
 footer {
 	background-color: white;
-	border-top: 1px solid #CCCCCC;
+	border-top: thin solid #CCCCCC;
 	bottom: 0;
-	height: 60px;
+	height: 4em;
 	position: absolute;
 	width: 100%;
 }
 footer>p {
-	line-height: 30px;
+	line-height: 4em;
 	text-align: center;
 }
