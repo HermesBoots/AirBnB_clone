@@ -1,0 +1,12 @@
+footer {
+	background-color: white;
+	border-top: thin solid #CCCCCC;
+	bottom: 0;
+	height: 4em;
+	position: absolute;
+	width: 100%;
+}
+footer>p {
+	line-height: 4em;
+	text-align: center;
+}
